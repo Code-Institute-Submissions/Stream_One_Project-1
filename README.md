@@ -1,3 +1,3 @@
-# Stream_One_Project
+# Stream One Project
 
 Repository for my Stream One Project
