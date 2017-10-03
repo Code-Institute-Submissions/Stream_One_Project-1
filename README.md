@@ -14,9 +14,11 @@ For the basis of this project, I wanted to do something that is worthwhile and t
 
 ## Proposed Solution
 
+To create a more streamlined, repsonsive site that will be more attractive to look at and smoother to use (creating a better user experience) - this will be achieved by using the below-mentioned libraries and frameworks.
+
 ## Tech Used
 
-### Some the tech used includes:
+### Some of the tech used includes:
 - [AngularJS](https://angularjs.org/)
     - We use **AngularJS** to handle page routing, we also use it to make calls to the REST API and build custom directives
 - [Bootstrap](http://getbootstrap.com/)
