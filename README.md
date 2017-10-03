@@ -21,5 +21,5 @@ To create a more streamlined, repsonsive site that will be more attractive to lo
 ### Some of the tech used includes:
 - [Bootstrap](http://getbootstrap.com/)
     - We will use **Bootstrap** to give our project a simple, responsive layout
-- [JQuery](https://angularjs.org/)
+- [JQuery](https://jquery.com/)
     - We will use **JQuery** to handle any potential interactive components
