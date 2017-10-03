@@ -1,2 +1,3 @@
 # Stream_One_Project
-Repo for my first project
+
+Repository for my Stream One Project
