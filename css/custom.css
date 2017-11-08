@@ -8,12 +8,27 @@ body{
 .container {
 	margin-top: 50px;
 		}
-		
-navbar-brand{
-	color: white;
-            }
+		 
+.nav.navbar-nav.navbar-right li a {
+    color: white;
+	font-size: 18px;
+	font-family: calibri;
+	font-weight: bold;
+}
+
+.btn.btn-success.navbar-btn{
+	margin-top:10px;
+    margin-bottom: 5px;
+	margin-right: 5px;
+	margin-left: 5px;
+	padding: 6px;
+}
+
+.nav.navbar-nav.nav-brand{
+	margin-left: 25px;
+}
 	
-	footer {
+footer {
         padding: 5px;
 		margin-bottom: 10px;
 		margin-top: 20px;
