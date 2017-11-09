@@ -7,14 +7,27 @@ body {
   background-size: cover;
 }
 		
-.container {
+.container{
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 10px;
+	width: 98%;
+		}
+
+.topcontainer{
 	margin-top: 60px;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 10px;
+	width: 98%;
 		}
 		
-.container-fluid img {
-	margin-top: 20px;
+.container img {
+	margin-top: 10px;
+	border-color: green;
 		}
-		 
+			 
 .nav.navbar-nav.navbar-right li a {
     color: white;
 	font-size: 18px;
@@ -30,7 +43,7 @@ body {
 	padding: 6px;
 }
 
-.navbar-left>img {	
+.navbar-left img {	
   height: 100%;
   width: auto;
   margin: 10px;

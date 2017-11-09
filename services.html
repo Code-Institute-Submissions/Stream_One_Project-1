@@ -3,6 +3,7 @@
 <head>
 
 	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>City Centre Homeless Charity</title>
 	<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="css/custom.css">
@@ -25,14 +26,14 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span> 
       </button>
-      <a href="index.html" class="navbar-left"><img src="img/logo2.png"></a>
+	  <a href="index.html" class="navbar-left"><img src="img/logo2.png"></a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        <li><a href="index.html"><span class="glyphicon glyphicon-home"></span> Home</a></li>
+        <li class="active"><a href="index.html"><span class="glyphicon glyphicon-home"></span> Home</a></li>
         <li><a href="about.html"><span <i class="material-icons" style="font-size:18px;color:white;">public</i></span> About</a></li>
-        <li class="dropdown active">
-        <a class="dropdown-toggle" data-toggle="dropdown" class="active" href="services.html"><span <i class="material-icons" style="font-size:18px;color:green;">healing</i></span> Services
+		<li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown"><span <i class="material-icons" style="font-size:18px;color:green;">healing</i></span> Services
         <span class="caret"></span></a>
         <ul class="dropdown-menu">
           <li><a href="services.html">Page 1-1</a></li>
@@ -49,11 +50,32 @@
   </div>  
 </nav>
 
-<!-- Begin page content -->
-    <div class='container'>
-        <div class='row'>
-            <div class='col-md-4'>
-                <h1>SERVICES</h1>
+    <!-- Begin page content -->
+    <div class="topcontainer">	
+		<div class="row">
+            <div class="col-sm-12">
+			<img src="img/homelogo.png" class="center-block" alt="Home Logo" width="30%" height="30%">
+                <h1>HOME</h1>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                </p>
+            </div>
+		</div>
+	</div>
+
+	<!-- Image -->
+    <div class="container-fluid">
+        <img src="img/test2.png" class="img-thumbnail img-responsive" alt="Banner" width="100%" height="80px">        
+	</div>
+	
+	<!-- Further page content -->
+    <div class="container">	
+		<div class="row">
+            <div class="col-sm-4">
+                <h1>HOME</h1>
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -62,7 +84,7 @@
                 </p>
                 <a href="#" class="btn btn-success">Learn</a>
             </div>
-            <div class='col-md-4'>
+            <div class="col-sm-4">
                 <h1>TEST</h1>
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -72,10 +94,11 @@
                 </p>
                 <a href="#" class="btn btn-primary">Learn</a>
             </div>
-            
         </div>
+    </div>
 
 		<!-- Footer Content -->
+	<div class='container-fluid'>
         <footer>
           <p> &#169 Copyright - <i>Action For The Homeless, Dublin 2017</i></p>
         </footer>
