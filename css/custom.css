@@ -74,6 +74,12 @@ font-size:24px;
   margin: 10px;
 }
 
+/*JQuery///////////////////*/
+
+.highlight_text{
+	background-color: #EB5255;
+}
+
 /*FOOTER START///////////////////*/
 
 .footer {
