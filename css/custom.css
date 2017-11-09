@@ -8,7 +8,11 @@ body {
 }
 		
 .container {
-	margin-top: 50px;
+	margin-top: 60px;
+		}
+		
+.container-fluid img {
+	margin-top: 20px;
 		}
 		 
 .nav.navbar-nav.navbar-right li a {
