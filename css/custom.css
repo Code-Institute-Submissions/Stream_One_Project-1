@@ -6,6 +6,17 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
+
+h1 p {
+	Font-family: calibri;
+}
+
+.widget-title {
+color: #fff;
+background: #35404f;
+border-top: 8px solid #187520;
+padding: 0.625em 15px;
+}
 		
 .container{
 	margin-top: 20px;
