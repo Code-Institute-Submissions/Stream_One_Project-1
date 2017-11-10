@@ -30,8 +30,8 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        <li><a href="index.html"><span class="glyphicon glyphicon-home"></span> Home</a></li>
-        <li><a href="about.html"><span <i class="material-icons" style="font-size:18px;color:white;">public</i></span> About</a></li>   
+        <li><a href="index.html"><span <i class="material-icons" style="font-size:18px;color:white;">home</i></span> Home</a></li>
+        <li><a href="about.html"><span <i class="material-icons" style="font-size:18px;color:orange;">book</i></span> About</a></li>  
 			<li class="dropdown active">
 			<a class="dropdown-toggle" data-toggle="dropdown"><span <i class="material-icons" style="font-size:18px;color:green;">healing</i></span> Services
 			<span class="caret"></span></a>
@@ -64,9 +64,9 @@
 		<div class="row">
             <div class="col-sm-12">
 			<img src="img/homelogo.png" class="center-block" alt="Home Logo" width="30%" height="30%">
-                <h1 class="widget-title">SERVICES OVERVIEW</h1>
+                <h2 class="widget-title">Services Overview</h2>
                 <p>
-                    AFTH currently offers the following services, with plans in place to expand in the coming months, with thanks your support.  For more information on each service, simply hover over the icon:
+                    AFTH currently offers the following services, with plans in place to expand in the coming months, with thanks your support.  For more information on each service, simply the icon:
                 </p>
             </div>
 		</div>
@@ -77,47 +77,47 @@
 		<div class="row">
             <div class="col-sm-3">
                 <h2 class="widget-subtitle">Prevention</h2>
-				<img src="img/prevent.png" class="center-block" alt="Prevention Logo" width="35%" height="35%">
-                <p>
+				<img src="img/prevent.png" class="center-block" id="prev_logo" alt="Prevention Logo" width="30%" height="30%">
+                <p id="prev_par">
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
                     Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </p>
-                <a href="#" class="btn btn-primary">Learn More</a>
+                <a href="services_prevention.html" class="btn btn-primary" id="prev_btn">Learn More</a>
             </div>
             <div class="col-sm-3">
                 <h2 class="widget-subtitle">Housing</h2>
-				<img src="img/house.png" class="center-block" alt="Housing Service Logo" width="35%" height="35%">
-                <p>
+				<img src="img/house.png" class="center-block" id="house_logo" alt="Housing Service Logo" width="30%" height="30%">
+                <p id="house_par">
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
                     Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </p>
-                <a href="#" class="btn btn-primary">Learn More</a>
+                <a href="services_housing.html" class="btn btn-primary" id="house_btn">Learn More</a>
             </div>
 			<div class="col-sm-3">
                 <h2 class="widget-subtitle">Homeless</h2>
-				<img src="img/homeless.png" class="center-block" alt="Homeless Service Logo" width="22%" height="22%">
-                <p>
+				<img src="img/homeless.png" class="center-block" alt="Homeless Service Logo" id="homeless_logo" width="18.5%" height="18.5%">
+                <p id="homeless_par">
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
                     Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </p>
-                <a href="#" class="btn btn-primary">Learn More</a>
+                <a href="services_homeless.html" class="btn btn-primary" id="homeless_btn">Learn More</a>
             </div>
 			<div class="col-sm-3">
                 <h2 class="widget-subtitle">Drugs & Alcohol</h2>
-                <img src="img/drugs.png" class="center-block" alt="Drug Treatment Logo" width="35%" height="35%">
-				<p>
+                <img src="img/drugs.png" class="center-block" alt="Drug Treatment Logo" id="drug_logo" width="28%" height="28%">
+				<p id="drug_par">
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
                     Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </p>
-                <a href="#" class="btn btn-primary">Learn More</a>
+                <a href="services_drugs.html" class="btn btn-primary" id="drug_btn">Learn More</a>
             </div>
         </div>
     </div>
@@ -143,7 +143,7 @@
             <a href="#"><i class="fa fa-phone" style="color:lightgreen" aria-hidden="true"></i> +353 1 123 4567</a>
             <a href="#"><i class="fa fa-at" style="color:orange" aria-hidden="true"></i> helpline@afth.org</a>
             <a href="#"><i class="fa fa-globe" style="color:lightblue"" aria-hidden="true"></i> Location:</a>           
-			<p>&#160 &#160 &#160 &#160 &#160 &#160 <b>321 High Street, Dublin 1, Ireland</b></p>
+			<p>&#160 &#160 &#160 &#160 &#160 &#160 &#160 &#160 <b>321 High Street, Dublin 1, Ireland</b></p>
 		  </span>
             </div>
         <div class="col-sm-3">
