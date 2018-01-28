@@ -14,7 +14,7 @@ $("#drug_par").hide();
 	});
 
 
-$("#prev_logo").click(function() {
+$("#prev_logo").hover(function() {
 	  	$("#prev_par").toggle("slow");
 		$("#prev_btn").toggle("slow");
 		$("#house_btn").hide("slow");
@@ -25,7 +25,7 @@ $("#prev_logo").click(function() {
 		$("#drug_par").hide("slow");
 	});					
 
-$("#house_logo").click(function() {
+$("#house_logo").hover(function() {
 	  	$("#prev_par").hide("slow");
 		$("#prev_btn").hide("slow");
 		$("#house_btn").toggle("slow");
@@ -36,7 +36,7 @@ $("#house_logo").click(function() {
 		$("#drug_par").hide("slow");
 	});	
 
-$("#homeless_logo").click(function() {
+$("#homeless_logo").hover(function() {
 	  	$("#prev_par").hide("slow");
 		$("#prev_btn").hide("slow");
 		$("#house_btn").hide("slow");
@@ -47,7 +47,7 @@ $("#homeless_logo").click(function() {
 		$("#drug_par").hide("slow");
 	});							
 
-$("#drug_logo").click(function() {
+$("#drug_logo").hover(function() {
 	  	$("#prev_par").hide("slow");
 		$("#prev_btn").hide("slow");
 		$("#house_btn").hide("slow");
