@@ -70,9 +70,7 @@ var firstName = "";
 		var anon = "";
 		var list = "";
 		var amount = "";
-		
-		$('.set-amount').autoGrow(0);
-		
+				
 		/*
 			if(isiPad || jQuery.browser.mobile){
 				$('#team').hide()
@@ -90,16 +88,7 @@ var firstName = "";
 			
 			$(this).find("input").focus();
 		});
-		
-		//Grow the donation box if they type more than 4 numbers
-		$(".set-amount").keyup(function(){
 			
-			if (this.value != this.value.replace(/[^0-9\.]/g, '')) {
-		       this.value = this.value.replace(/[^0-9\.]/g, '');
-		    }
-
-		});
-		
 		
 		$("input").on("change", function(){
 			// $(".donation-box").css("height", "500px");
