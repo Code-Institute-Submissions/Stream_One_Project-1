@@ -2,7 +2,7 @@
 
 Repository for my Stream One Project
 
-Video on Donate.html page is entitled "Martin", and was publised on YouTube on 2nd Sept 2017 by Donal Moloney:
+Video on `Donate.html`page is entitled "Martin", and was publised on YouTube on 2nd Sept 2017 by Donal Moloney:
 https://www.youtube.com/watch?time_continue=1&v=UjGZspQDczI
 
 ## Introduction
