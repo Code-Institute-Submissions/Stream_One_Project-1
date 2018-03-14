@@ -2,8 +2,13 @@
 
 Repository for my Stream One Project
 
+## Credits
+
 Video on `Donate.html`page is entitled "Martin", and was publised on YouTube on 2nd Sept 2017 by Donal Moloney:
 https://www.youtube.com/watch?time_continue=1&v=UjGZspQDczI
+
+Donation Form on `Donate.html`page is based on code taken from a pen by Ross Waycaster:
+https://codepen.io/rosswaycaster/pen/YPQzap (some of the css has been edited and certain code that is not required for this project and code that was not fully understand, has been removed)
 
 ## Introduction
 
