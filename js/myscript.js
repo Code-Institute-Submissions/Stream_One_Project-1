@@ -59,51 +59,5 @@ $("#drug_logo").hover(function() {
 	});								
 	
 
-
-/*Javascript - Donation Form///////////////////*/
-
-var firstName = "";
-		var lastName = "";
-		var email = "";
-		var dType = "";
-		var receipt = "";
-		var anon = "";
-		var list = "";
-		var amount = "";
-				
-		/*
-			if(isiPad || jQuery.browser.mobile){
-				$('#team').hide()
-				$('.team-mobile').show();	
-			}else{
-				$('#team').show()
-				$('.team-mobile').hide();
-			}
-		*/
 		
-		//Set & Highlight Donation Amount
-		$(".button").click(function(){
-			$(".button").removeClass("selected");
-			$(this).addClass("selected");
-			
-			$(this).find("input").focus();
-		});
-			
-		
-		$("input").on("change", function(){
-			// $(".donation-box").css("height", "500px");
-			
-			firstName = $("#firstName").val();
-			lastName = $("#lastName").val();
-			email = $("#email").val();
-			
-			if ( $("#one-time").prop( "checked" ) ){
-				dType = "One-Time";
-			}
-			if ( $("#monthly").prop( "checked" ) ){
-				dType = "Monthly";
-			}
-
-		});
-		
-		});
+	});
