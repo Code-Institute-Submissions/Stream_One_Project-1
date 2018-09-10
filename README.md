@@ -8,7 +8,7 @@ Video on `Donate.html`page is entitled "Martin", and was publised on YouTube on 
 https://www.youtube.com/watch?time_continue=1&v=UjGZspQDczI
 
 Donation Form on `Donate.html`page is based on code taken from a pen by Ross Waycaster:
-https://codepen.io/rosswaycaster/pen/YPQzap (some of the css has been edited and certain code that is not required for this project and code that was not fully understand, has been removed)
+https://codepen.io/rosswaycaster/pen/YPQzap (some of the css has been edited and certain code that is not required for this project and code that was not fully understand, has been removed - the main piece being the code from "myscripts.js" pertaining the Donation Form as this was not needed for this project)
 
 ## Introduction
 
@@ -31,3 +31,4 @@ To create a more streamlined, repsonsive site that will be more attractive to lo
     - We will use **Bootstrap** to give our project a simple, responsive layout
 - [JQuery](https://jquery.com/)
     - We will use **JQuery** to handle any potential interactive components
+
