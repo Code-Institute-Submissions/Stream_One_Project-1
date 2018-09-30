@@ -21,6 +21,9 @@ To create a more streamlined, repsonsive site that will be more attractive to lo
 ### Sample Home Page:
 ![mockup_home](https://user-images.githubusercontent.com/28737216/46255825-1d46ff80-c49a-11e8-8c00-8a2d3f7f1903.PNG)
 
+### Sample Services Overview Page:
+![mockup_services](https://user-images.githubusercontent.com/28737216/46255869-a5c5a000-c49a-11e8-8759-315df7f439a3.PNG)
+
 ## Tech Used
 
 ### Some of the tech used includes:
