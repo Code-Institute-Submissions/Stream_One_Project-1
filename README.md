@@ -1,6 +1,6 @@
 # Stream One Project
 
-Repository for my Stream One Project.  Project can be view <a href="https://jagger81.github.io/Stream_One_Project/" target="blank" >here</a>
+Repository for my Stream One Project.  Project can be view <a href="https://jagger81.github.io/Stream_One_Project/" target="_blank" >here</a>
 
 ## Introduction
 
