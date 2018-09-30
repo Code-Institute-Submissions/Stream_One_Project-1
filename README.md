@@ -1,14 +1,6 @@
 # Stream One Project
 
-Repository for my Stream One Project
-
-## Credits
-
-Video on `Donate.html`page is entitled "Martin", and was publised on YouTube on 2nd Sept 2017 by Donal Moloney:
-https://www.youtube.com/watch?time_continue=1&v=UjGZspQDczI
-
-Donation Form on `Donate.html`page is based on code taken from a pen by Ross Waycaster:
-https://codepen.io/rosswaycaster/pen/YPQzap (some of the css has been edited and certain code that is not required for this project and code that was not fully understand, has been removed - the main piece being the code from "myscripts.js" pertaining the Donation Form as this was not needed for this project)
+Repository for my Stream One Project.  Project can be view <a href="https://jagger81.github.io/Stream_One_Project/">here</a>
 
 ## Introduction
 
@@ -24,6 +16,8 @@ For the basis of this project, I wanted to do something that is worthwhile and t
 
 To create a more streamlined, repsonsive site that will be more attractive to look at and smoother to use (creating a better user experience) - this will be achieved by using the below-mentioned libraries and frameworks.
 
+## MockUps
+
 ## Tech Used
 
 ### Some of the tech used includes:
@@ -32,3 +26,10 @@ To create a more streamlined, repsonsive site that will be more attractive to lo
 - [JQuery](https://jquery.com/)
     - We will use **JQuery** to handle any potential interactive components
 
+## Credits
+
+Video on `Donate.html`page is entitled "Martin", and was publised on YouTube on 2nd Sept 2017 by Donal Moloney:
+https://www.youtube.com/watch?time_continue=1&v=UjGZspQDczI
+
+Donation Form on `Donate.html`page is based on code taken from a pen by Ross Waycaster:
+https://codepen.io/rosswaycaster/pen/YPQzap (some of the css has been edited and certain code that is not required for this project and code that was not fully understand, has been removed - the main piece being the code from "myscripts.js" pertaining the Donation Form as this was not needed for this project)
