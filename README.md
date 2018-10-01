@@ -56,7 +56,7 @@ All other pages relating to "Services" and "Get Invloved" will be basic text and
 
 ## Credits
 
-Much of the narrative was talking from various homeless charities websites, to fill the relevant areas of the project site (this includes Peter McVerry Trust, ICHH, Centre For Prevention Services, Focus Ireland)
+Much of the narrative was taken from various homeless charities websites, to fill the relevant areas of the project site (this includes Peter McVerry Trust, ICHH, Centre For Prevention Services, Focus Ireland)
 
 Video on `Donate.html`page is entitled "Martin", and was publised on YouTube on 2nd Sept 2017 by Donal Moloney:
 https://www.youtube.com/watch?time_continue=1&v=UjGZspQDczI
