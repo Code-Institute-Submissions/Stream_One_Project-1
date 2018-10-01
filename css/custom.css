@@ -17,6 +17,10 @@ hr{
    border: 0.5px solid green;
 }
 
+h3{
+	text-align: center;
+}
+
 
 .widget-title {
 color: #fff;
