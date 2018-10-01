@@ -9,6 +9,8 @@ body {
 
 body {
 	Font-family: calibri;
+	text-align: justify;
+    text-justify: inter-word;
 }
 
 hr{
