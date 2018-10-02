@@ -20,12 +20,7 @@ The site is made up of the following pages:
 
 - Home
 - About
-- Services
-    - Overview
-    - Prevention Services
-    - Housing Services
-    - Homeless Services
-    - Drug Treatment Services
+- Services (4 key areas)
 - Get Involved
     - Fundraising
     - Volunteering
