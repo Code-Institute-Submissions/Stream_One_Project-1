@@ -45,9 +45,9 @@ All other pages relating to "Services" and "Get Invloved" will be basic text and
 
 ### Some of the tech used includes:
 - [Bootstrap](http://getbootstrap.com/)
-    - We will use **Bootstrap** to give our project a simple, responsive layout
+    - used **Bootstrap** to give the project a simple, responsive layout
 - [JQuery](https://jquery.com/)
-    - We will use **JQuery** to handle any potential interactive components
+    - used **JQuery** to handle any potential interactive components  (icons on services.html page)
 
 ## Credits
 
@@ -56,5 +56,5 @@ Much of the narrative was taken from various homeless charities websites, to fil
 Video on `Donate.html`page is entitled "Martin", and was publised on YouTube on 2nd Sept 2017 by Donal Moloney:
 https://www.youtube.com/watch?time_continue=1&v=UjGZspQDczI
 
-Donation Form on `Donate.html`page is based on code taken from a pen by Ross Waycaster:
-https://codepen.io/rosswaycaster/pen/YPQzap (some of the css has been edited and certain code that is not required for this project and code that was not fully understand, has been removed - the main piece being the code from "myscripts.js" pertaining the Donation Form as this was not needed for this project)
+Donation Form on `Donate.html` page is based on code taken from a pen by Ross Waycaster:
+https://codepen.io/rosswaycaster/pen/YPQzap (some of the css has been edited and certain code that is not required for this project has been removed - the main piece being the code from "myscripts.js" pertaining the Donation Form as this was not needed for this project)
